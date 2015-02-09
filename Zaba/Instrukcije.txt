@@ -1,0 +1,14 @@
+Instrukcije igre:
+
+
+Poenta igrice je da karakter predje tri ulice, kojima se krecu automobili sve vecom i vecom brzinom.
+Kretanje karaktera se ostvaruje pomocu tastera na tastaturi:
+.
+w - gore
+d - desno
+a - levo
+s - dole
+
+Igra je organizovana u vise nivoa, razlika u nivoima je brzina kretanja automobila.
+
+Nadam se da cete uzivati, pozdrav :)
